@@ -4,4 +4,4 @@ This is a [*link to my personal website*](www.vikrambahl.com)
 
 Does this *even work*?
 
-Follow me at [follow @roverandum](http://twitter.com/roverandum)
+Follow me at [@roverandum](http://twitter.com/roverandum)
